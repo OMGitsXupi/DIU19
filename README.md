@@ -12,13 +12,7 @@ Se deberán diseñar todos los bocetos del website (parte del cliente) sin funci
 publicar en GITHUB (para su evaluación en siguiente práctica) 
 
 
-Pasos: 
-
-* Partiendo de los bocetos...
-* Diseño y organización del layout siguiendo estilos basados en un sistema de rejilla responsivo. 
-* Utilización de guía de estilos  (colores, iconos, tipografía) adecuada para el proyecto. 
-* Uso de patrones de diseño para componentes. 
-* Utilizar herramientas de desarrollo Web. Utilizaremos el entorno Bootstrap
-* Publicar en GitHub haciendo un FORK de este proyecto. 
+# Proyecto Agenda DIU - 2018/2019 
 
 
+- (https://github.com/OMGitsXupi)               -> (http://OMGitsxupi.github.io) 
