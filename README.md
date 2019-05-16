@@ -15,4 +15,4 @@ publicar en GITHUB (para su evaluación en siguiente práctica)
 # Proyecto Agenda DIU - 2018/2019 
 
 
-- (https://github.com/OMGitsXupi)               -> (http://OMGitsxupi.github.io) 
+- (https://github.com/OMGitsXupi)               -> (https://OMGitsxupi.github.io) 
